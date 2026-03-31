@@ -1,3 +1,5 @@
-void main(){
-    System.out.println("Hello");
+public class first {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
 }
